@@ -21,7 +21,7 @@ Contributions are very welcome, see [Contributing](#contributing).
 ![Directcut](docs/screenshots/directcut.png)
 <sub>Gallery images in this screenshot are for demonstration only.</sub>
 
-▶ **[Watch the 90-second how-to video](docs/media/directcut-demo.mp4)**: the built-in tour, building a shot with character / style / voice references, and generating an image. New here? Click **?** next to ⚙ in the app to replay the tour anytime.
+▶ **[Watch the 90-second how-to video](docs/media/directcut-demo.mp4)**: the built-in tour, building a shot with character / style / voice references, and setting up an image. New here? Click **?** next to ⚙ in the app to replay the tour anytime.
 
 ## Contents
 
